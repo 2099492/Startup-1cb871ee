@@ -1,0 +1,2 @@
+SELECT series
+FROM netland;
